@@ -161,7 +161,7 @@ a {
     }
 
     100% {
-        bottom: 1.52vh;
+        bottom: 1.5vh;
         transform: rotate(135deg);
     }
 }
