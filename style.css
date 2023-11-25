@@ -739,8 +739,8 @@ a,
 
     header {
         height: 5em;
-        border-bottom-left-radius: 11vw;
-        border-bottom-right-radius: 11vw;
+        border-bottom-left-radius: 9vw;
+        border-bottom-right-radius: 9vw;
     }
 
     .menu {
