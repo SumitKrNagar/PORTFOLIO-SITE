@@ -888,6 +888,7 @@ a,
   }
 
   .about-img {
+    margin-top: 13vh;
     margin-bottom: 1vh;
     width: 33%;
   }
@@ -930,10 +931,6 @@ a,
 
   .education-parai {
     margin-top: 0.5vh;
-  }
-
-  .education-paral {
-    margin-bottom: 2vh;
   }
 
   .education-para2 {
